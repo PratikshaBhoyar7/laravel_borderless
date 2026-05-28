@@ -1,0 +1,12 @@
+[2026-01-14 07:53:28] Order creation request
+Data: {"amount":100000,"name":"Avinash","email":"avinash@test.com","phone":"7654545444"}
+[2026-01-14 07:53:28] Exception during order creation
+Data: {"error":"Invalid method: create"}
+[2026-02-07 11:13:52] Order creation request
+Data: {"amount":50000,"name":"pratiksha","email":"pratikshabhosale624@gmail.com","phone":"9763997147"}
+[2026-02-07 11:13:52] Exception during order creation
+Data: {"error":"Invalid method: create"}
+[2026-02-07 12:08:53] Order creation request
+Data: {"amount":50000,"name":"aviash","email":"avinash@gmail.com","phone":"8585888888"}
+[2026-02-07 12:08:53] Exception during order creation
+Data: {"error":"Invalid method: create"}
